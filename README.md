@@ -12,13 +12,12 @@ This project simulates the tracking of space debris objects and models a magneti
 
 ## Tools
 - MATLAB/Octave (orbital dynamics, magnetic interaction modeling)
-- Python (supporting analysis/visualization)
 
 ## Repository Structure
 ```
 space-debris-tracking-magnetic-capture/
-├── src/                   # Orbital propagation & magnetic capture models
-├── docs/                   # Report and analysis
+├── space_debris_tracking_simulator.m                   # Orbital propagation & magnetic capture models
+├── space_debris_tracking_simulator.pdf                   # Report and analysis
 └── README.md
 ```
 
