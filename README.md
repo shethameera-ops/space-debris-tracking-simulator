@@ -24,5 +24,9 @@ space-debris-tracking-magnetic-capture/
 ## Status
 Simulation and feasibility analysis complete.
 
+## Results
+- Built a working simulation framework modeling orbital debris motion alongside a magnetic-field capture mechanism.
+- Produced a feasibility assessment of magnetic capture as an active debris removal strategy.
+  
 ## Author
 Ameera — B.Tech Aerospace Engineering, ADYPU
